@@ -15,4 +15,4 @@ jquery (>= 1.7.0)
 ## Development Dependencies
 
 jQuery Sortable is developed using [middleman](http://middlemanapp.com/).
-A **bundle install** shoud pull in everything needed.
+A **bundle install** should pull in everything needed.
